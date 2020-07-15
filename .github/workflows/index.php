@@ -1,4 +1,4 @@
-<!doctype html>
+<!docker test from ci flow>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
