@@ -1,3 +1,5 @@
+<!Added these lines to check for commit changes option>
+
 <!doctype html>
 <html lang="en">
   <head>
